@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gowtham-K-S-G
+- 👋 Hi, I’m @Gowtham-K-S
 - 👀 I’m interested in ... Database Administrator 
 - 🌱 I’m currently learning ... Python, SQL, HTML5, CSS, javascript 
 - 💞️ I’m looking to collaborate on ...
